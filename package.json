@@ -6,12 +6,12 @@
   "subdomain": "revealjs",
   "scripts": {
     "test": "grunt test",
-    "start": "python -m SimpleHTTPServer 8001"
+    "start": "npx live-server"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Alejandro Medina Robles",
+    "email": "5almero5@gmail.com",
+    "web": "https://wolftrax5.vercel.app/"
   },
   "repository": {
     "type": "git",
